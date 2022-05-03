@@ -13,5 +13,6 @@ Come provarlo?
 NB: Se stai usando termux potresti avere qualche problema.
 Il programma è stato creato e testato da diversi sistemi operativi da pc.
 
-discord : אלי כהן#3568
+discord : 
+אלי כהן#3568
 telegram : @theholderofthetruth
