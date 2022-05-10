@@ -2,7 +2,7 @@
 Gioco testuale per terminale ambientato nel mondo delle backrooms.
 
 !IN FASE DI SVILUPPO!
-!LvL 0 è solo una demo!
+!Backrooms1-0 è solo una demo!
 
 Come provarlo?
 
